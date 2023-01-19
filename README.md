@@ -19,7 +19,6 @@ For each error we have resilience patterns implementation in a [github repositor
 
 We need a way to manage the chaos inherent in these systems, take advantage of increasing flexibility and velocity and have confidence in production deployments.
 
-#Chaos Engineering with Chaos Mesh
 [Chaos Mesh](https://chaos-mesh.org/docs/) is an open source cloud-native Chaos Engineering platform. It offers various types of fault simulation and has an enormous capability to orchestrate fault scenarios. Using Chaos Mesh, you can conveniently simulate various abnormalities that might occur in reality during the development, testing, and production environments and find potential problems in the system. To lower the threshold for a Chaos Engineering project, Chaos Mesh provides you with a perfect visualization operation. You can easily design your Chaos scenarios on the Web UI and monitor the status of Chaos experiments.
 
 ## Chaos Mesh Architecture
