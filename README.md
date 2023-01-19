@@ -1,5 +1,3 @@
-#Chaos Engineering Concepts
-
 [Chaos Engineering](https://principlesofchaos.org/) is the discipline of experimenting on a system in order to build confidence in the system’s capability to withstand turbulent conditions in production.
 
 Advances in large-scale, **distributed Software** systems are changing everything related to Software Engineering. Flexibility of development and velocity of deployment are good examples, which show the change principles.
