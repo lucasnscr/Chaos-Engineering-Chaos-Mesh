@@ -81,7 +81,7 @@ Chaos Mesh is built on Kubernetes CRD (Custom Resource Definition). To manage di
 
 ### Installing Chaos Mesh in Kubernetes Cluster
 
-Beginning implementation of chaos mesh on kubernetes we used this **[Documentation](https://dev.to/lucasnscr/deployment-spring-application-in-kubernetes-with-minikube-4gl7)** or [clone this repository](https://github.com/lucasnscr/Kubernetes-Spring) on branch chaos-mesh
+Beginning implementation of chaos mesh on kubernetes we used this **[Documentation](https://dev.to/lucasnscr/deployment-spring-application-in-kubernetes-with-minikube-4gl7)** or [clone this repository](https://github.com/lucasnscr/Kubernetes-Spring/tree/chaos-mesh) on branch chaos-mesh
 
 Now with this repository, we need to have installed in your machine [docker](https://www.docker.com/) and [minikube](https://minikube.sigs.k8s.io/docs/start/). After this process you run this command to start the Kubernetes cluster.
 
